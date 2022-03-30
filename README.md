@@ -18,16 +18,14 @@ Built with Swift using Xcode 13.3 & SwiftUI framework.
 * Provided nuritions and dished saved with UserDefaults
 
 ## Screenshot
-<p>
+<p> 
   
-<img src="https://user-images.githubusercontent.com/97693456/160874516-d8dcbd24-b832-4112-94e8-290b0622e1b5.png" width="277" height="600">
-<img src="https://user-images.githubusercontent.com/97693456/160874531-b787c5e7-59ec-42f3-87d3-5d48e5fbeb17.png" width="277" height="600">
-<img src="https://user-images.githubusercontent.com/97693456/160874533-81c8ac9a-1f0d-45fc-80a3-c41f9cbdc633.png" width="277" height="600">
-<img src="https://user-images.githubusercontent.com/97693456/160874536-13f70c8e-2f73-4136-adfc-9f27dadbda91.png" width="277" height="600">
-<img src="https://user-images.githubusercontent.com/97693456/160874537-2003a40b-dc77-4c7c-821e-c8f2e007b009.png" width="277" height="600">
-<img src="https://user-images.githubusercontent.com/97693456/160874541-2ed89a73-3f7e-4b65-8714-0963452568db.png" width="277" height="600">
-<img src="https://user-images.githubusercontent.com/97693456/160875104-5356fa4e-ff03-4dfe-a6aa-8234957d92d8.png" width="277" height="600">
-
+<img src="https://user-images.githubusercontent.com/97693456/160879154-0360eec3-ba95-43f6-a190-178965c829dd.png" width="277" height="600">
+<img src="https://user-images.githubusercontent.com/97693456/160878789-6bbfba6e-e4c4-4b99-b7cf-a97c9c034f56.png" width="277" height="600"> 
+<img src="https://user-images.githubusercontent.com/97693456/160878792-b3180028-31df-4746-a3e5-9802484f2590.png" width="277" height="600"> 
+<img src="https://user-images.githubusercontent.com/97693456/160878796-b40b531c-7c4a-46e3-ad71-ea5b47980e53.png" width="277" height="600"> 
+<img src="https://user-images.githubusercontent.com/97693456/160878800-5464ea50-e8ab-4b17-8518-2900e2b96417.png" width="277" height="600"> 
+<img src="https://user-images.githubusercontent.com/97693456/160879205-b9f2cf7c-b15f-4e6c-a31c-76b63a349ad2.png" width="277" height="600"> 
 
 </p>
 
