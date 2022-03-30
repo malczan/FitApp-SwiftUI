@@ -3,7 +3,7 @@
 ## Overview
 
 FitApp is an app for people who would like to stay fit, and improve their eating habits. With the very first launch, user is able to fullfill all necessary
-informations and based on them, application calculate user's daily nurition demand. User can aslo add new dishes, and see previously added. All dishes are sorted by
+informations and based on them, application calculate user's daily nurition demand. User can also add new dishes, and see previously added. All dishes are sorted by
 meal category. By the next day, all added dishes and provided nuritions, are being delete. 
 
 Built with Swift using Xcode 13.3 & SwiftUI framework.
