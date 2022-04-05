@@ -44,7 +44,7 @@ class NuritionViewModel : ObservableObject{
         self.nuritonDemand = NuritonDemand(kcal: 0, proteins: 0, carbs:0, fats: 0)
         self.nuritonProvide = NuritonProvide(kcal: 0, proteins: 0, carbs: 0, fats: 0)
         self.dailyMeals = [
-                           Meals(name: "Breakfast", dish: [Dish(tittle: "Sniadanie", kcal: 120, proteins: 10, carbs: 10, fats: 10)]),
+                           Meals(name: "Breakfast", dish: []),
                            Meals(name: "Lunch", dish: []),
                            Meals(name: "Dinner", dish: []),
                            Meals(name: "Snack", dish: []),
