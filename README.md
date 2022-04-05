@@ -17,7 +17,7 @@ Built with Swift using Xcode 13.3 & SwiftUI framework.
 * Personal details saved with UserDefaults
 * Provided nuritions and dished saved with UserDefaults
 
-## Screenshot
+## Screenshots
 <p> 
   
 <img src="https://user-images.githubusercontent.com/97693456/160879154-0360eec3-ba95-43f6-a190-178965c829dd.png" width="277" height="600">
