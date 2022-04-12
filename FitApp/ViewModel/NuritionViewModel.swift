@@ -160,19 +160,13 @@ class NuritionViewModel : ObservableObject{
     
     // MARK: DATE
     
-    func checkDate(){
+  func checkDate(){
 
-        if UserDefaults.standard.bool(forKey: "didLaunchBefore") == false{
-            UserDefaults.standard.set(true, forKey: "didLaunchBefore")
-            let tomorrow = Date.now.get(.day) + 1
-            UserDefaults.standard.set(tomorrow, forKey: "tomorrow")
-        }
         
         if UserDefaults.standard.object(forKey: "tomorrow") != nil{
             
             if Date.now.get(.day) == UserDefaults.standard.object(forKey: "tomorrow") as! Int{
-                let tomorrow = Date.now.get(.day) + 1
-                UserDefaults.standard.set(tomorrow, forKey: "tomorrow")
+               
                 
                 nuritonProvide.kcal = 0
                 nuritonProvide.proteins = 0
@@ -182,9 +176,15 @@ class NuritionViewModel : ObservableObject{
                 for i in 0..<dailyMeals.count{
                     dailyMeals[i].dish.removeAll()
                 }
+                
+                let tomorrow = Date.now.get(.day) + 1
+                UserDefaults.standard.set(tomorrow, forKey: "tomorrow")
             }
+        } else {
+            let tomorrow = Date.now.get(.day) + 1
+            UserDefaults.standard.set(tomorrow, forKey: "tomorrow")
         }
-    }
+    } 
     
     
     
